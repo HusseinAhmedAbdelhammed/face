@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348760562954",
+    "firebase_url": "https://face-8ab80.firebaseio.com",
+    "project_id": "face-8ab80",
+    "storage_bucket": "face-8ab80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348760562954:android:9c97589491dff25b292ef3",
+        "android_client_info": {
+          "package_name": "com.example.face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348760562954-9suggmtup00l8spjc4ifvjoib0n6tf95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdoJ2dYb4szB3zTqABWXVp5ngiPXL3tLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348760562954-9suggmtup00l8spjc4ifvjoib0n6tf95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
